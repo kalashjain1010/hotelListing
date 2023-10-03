@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Hotel A",
+      "city": "City A",
+      "location": "Location A",
+      "price": 100,
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+    },
+    {
+      "id": 2,
+      "name": "Hotel B",
+      "city": "City B",
+      "location": "Location B",
+      "price": 150,
+      "image": "public/hotel.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hotel C",
+      "city": "City A",
+      "location": "Location C",
+      "price": 120,
+      "image": "image-url-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hotel D",
+      "city": "City B",
+      "location": "Location D",
+      "price": 180,
+      "image": "image-url-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hotel E",
+      "city": "City A",
+      "location": "Location E",
+      "price": 90,
+      "image": "image-url-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hotel F",
+      "city": "City C",
+      "location": "Location F",
+      "price": 200,
+      "image": "image-url-6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Hotel G",
+      "city": "City B",
+      "location": "Location G",
+      "price": 140,
+      "image": "image-url-7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Hotel H",
+      "city": "City A",
+      "location": "Location H",
+      "price": 110,
+      "image": "image-url-8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Hotel I",
+      "city": "City C",
+      "location": "Location I",
+      "price": 160,
+      "image": "image-url-9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Hotel J",
+      "city": "City C",
+      "location": "Location J",
+      "price": 130,
+      "image": "image-url-10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Hotel A",
+      "city": "City A",
+      "location": "Location A",
+      "price": 100,
+      "image": "image-url-1.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Hotel B",
+      "city": "City B",
+      "location": "Location B",
+      "price": 150,
+      "image": "image-url-2.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Hotel C",
+      "city": "City A",
+      "location": "Location C",
+      "price": 120,
+      "image": "image-url-3.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Hotel D",
+      "city": "City B",
+      "location": "Location D",
+      "price": 180,
+      "image": "image-url-4.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Hotel E",
+      "city": "City A",
+      "location": "Location E",
+      "price": 90,
+      "image": "image-url-5.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Hotel F",
+      "city": "City C",
+      "location": "Location F",
+      "price": 200,
+      "image": "image-url-6.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Hotel G",
+      "city": "City B",
+      "location": "Location G",
+      "price": 140,
+      "image": "image-url-7.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Hotel H",
+      "city": "City A",
+      "location": "Location H",
+      "price": 110,
+      "image": "image-url-8.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Hotel I",
+      "city": "City C",
+      "location": "Location I",
+      "price": 160,
+      "image": "image-url-9.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Hotel J",
+      "city": "City C",
+      "location": "Location J",
+      "price": 130,
+      "image": "image-url-10.jpg"
+    }
+  ]
+  
