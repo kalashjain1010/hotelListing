@@ -1,163 +1,210 @@
 [
-    {
+  {
       "id": 1,
       "name": "Hotel A",
-      "city": "City A",
+      "city": "London",
       "location": "Location A",
       "price": 100,
       "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
-    },
-    {
+  },
+  {
       "id": 2,
       "name": "Hotel B",
-      "city": "City B",
+      "city": "Paris",
       "location": "Location B",
       "price": 150,
-      "image": "public/hotel.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 3,
       "name": "Hotel C",
-      "city": "City A",
+      "city": "New York",
       "location": "Location C",
       "price": 120,
-      "image": "image-url-3.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 4,
       "name": "Hotel D",
-      "city": "City B",
+      "city": "le Picaso",
       "location": "Location D",
       "price": 180,
-      "image": "image-url-4.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 5,
       "name": "Hotel E",
-      "city": "City A",
+      "city": "London",
       "location": "Location E",
       "price": 90,
-      "image": "image-url-5.jpg"
-    },
-    {
+      "image": "https://23c133e0c1637be1e07d-be55c16c6d91e6ac40d594f7e280b390.ssl.cf1.rackcdn.com/u/gpch/Park-Hotel-Group---Explore---Grand-Park-City-Hall-Facade.jpg"
+  },
+  {
       "id": 6,
       "name": "Hotel F",
-      "city": "City C",
+      "city": "Paris",
       "location": "Location F",
       "price": 200,
-      "image": "image-url-6.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 7,
       "name": "Hotel G",
-      "city": "City B",
+      "city": "New York",
       "location": "Location G",
       "price": 140,
-      "image": "image-url-7.jpg"
-    },
-    {
+      "image": "https://23c133e0c1637be1e07d-be55c16c6d91e6ac40d594f7e280b390.ssl.cf1.rackcdn.com/u/gpch/Park-Hotel-Group---Explore---Grand-Park-City-Hall-Facade.jpg"
+  },
+  {
       "id": 8,
       "name": "Hotel H",
-      "city": "City A",
+      "city": "le Picaso",
       "location": "Location H",
       "price": 110,
-      "image": "image-url-8.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 9,
       "name": "Hotel I",
-      "city": "City C",
+      "city": "London",
       "location": "Location I",
       "price": 160,
-      "image": "image-url-9.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 10,
       "name": "Hotel J",
-      "city": "City C",
+      "city": "Paris",
       "location": "Location J",
       "price": 130,
-      "image": "image-url-10.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 11,
       "name": "Hotel A",
       "city": "City A",
       "location": "Location A",
       "price": 100,
-      "image": "image-url-1.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 12,
-      "name": "Hotel B",
+      "name": "Hotel A",
       "city": "City B",
       "location": "Location B",
       "price": 150,
-      "image": "image-url-2.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 13,
-      "name": "Hotel C",
-      "city": "City A",
+      "name": "Hotel A",
+      "city": "City C",
       "location": "Location C",
       "price": 120,
-      "image": "image-url-3.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 14,
-      "name": "Hotel D",
-      "city": "City B",
+      "name": "Hotel A",
+      "city": "City D",
       "location": "Location D",
       "price": 180,
-      "image": "image-url-4.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 15,
       "name": "Hotel E",
-      "city": "City A",
+      "city": "London",
       "location": "Location E",
       "price": 90,
-      "image": "image-url-5.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 16,
       "name": "Hotel F",
-      "city": "City C",
+      "city": "Paris",
       "location": "Location F",
       "price": 200,
-      "image": "image-url-6.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 17,
       "name": "Hotel G",
-      "city": "City B",
+      "city": "New York",
       "location": "Location G",
       "price": 140,
-      "image": "image-url-7.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 18,
       "name": "Hotel H",
-      "city": "City A",
+      "city": "le Picaso",
       "location": "Location H",
       "price": 110,
-      "image": "image-url-8.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 19,
       "name": "Hotel I",
-      "city": "City C",
+      "city": "London",
       "location": "Location I",
       "price": 160,
-      "image": "image-url-9.jpg"
-    },
-    {
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
       "id": 20,
       "name": "Hotel J",
-      "city": "City C",
+      "city": "Paris",
       "location": "Location J",
       "price": 130,
-      "image": "image-url-10.jpg"
-    }
-  ]
-  
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
+      "id": 21,
+      "name": "Hotel K",
+      "city": "New York",
+      "location": "Location K",
+      "price": 175,
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
+      "id": 22,
+      "name": "Hotel L",
+      "city": "le Picaso",
+      "location": "Location L",
+      "price": 130,
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
+      "id": 23,
+      "name": "Hotel M",
+      "city": "London",
+      "location": "Location M",
+      "price": 95,
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
+      "id": 24,
+      "name": "Hotel N",
+      "city": "Paris",
+      "location": "Location N",
+      "price": 160,
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
+      "id": 25,
+      "name": "Hotel O",
+      "city": "New York",
+      "location": "Location O",
+      "price": 145,
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  },
+  {
+      "id": 26,
+      "name": "Hotel P",
+      "city": "le Picaso",
+      "location": "Location P",
+      "price": 190,
+      "image": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+  }
+]
