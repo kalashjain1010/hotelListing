@@ -1,9 +1,8 @@
-// PropertyPage.js
-import React from 'react';
-import { useParams } from 'react-router-dom';
-import HotelCard from './HotelCard';
+import React from "react";
+import { useParams } from "react-router-dom";
+import HotelCard from "./HotelCard";
 
-const hotelData = require('./hotelData.json');
+const hotelData = require("./hotelData.json");
 
 function PropertyPage() {
   const { id } = useParams();

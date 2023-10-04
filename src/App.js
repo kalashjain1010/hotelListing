@@ -10,8 +10,8 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path="/" element={<HotelList />} /> {/* Use 'element' prop */}
-        <Route path="/property/:id" element={<PropertyPage />} /> {/* Use 'element' prop */}
+        <Route path="/" element={<HotelList />} />
+        <Route path="/property/:id" element={<PropertyPage />} /> 
       </Routes>
     </Router>
   );

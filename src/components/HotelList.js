@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import HotelCard from './HotelCard';
-import hotelData from './hotelData.json'; // Import the JSON data
-
+import hotelData from './hotelData.json';
 function HotelList() {
   const [activeTab, setActiveTab] = useState(0);
   const [visibleHotels, setVisibleHotels] = useState(3);
